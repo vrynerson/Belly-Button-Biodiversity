@@ -1,2 +1,2 @@
 # Belly-Button-Biodiversity
-Mod 12 challenge files
+https://vrynerson.github.io/Belly-Button-Biodiversity/
