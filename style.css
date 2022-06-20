@@ -1,0 +1,13 @@
+body {
+
+
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gray;
+}
+
+.jumbotron {
+    background-image: url("digests_43487_digest-43487.png.jpg");
+    background-size: 100% 100%;
+    text-align: left;
+}
